@@ -9,7 +9,7 @@ Instructions
 
 2) Edit line 11 of receiver/index.html and edit castAppId to your Cast App ID. 
 
-3) Edit line 31 of sender/index.html and edit castAppId to your Cast App ID. 
+3) Edit line 10 of sender/index.html and edit castAppId to your Cast App ID. 
 
 4) Put the receiver code at the URL tied to the App ID you entered in the previous steps.
 
